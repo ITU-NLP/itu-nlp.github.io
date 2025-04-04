@@ -10,4 +10,5 @@ The website is automatically deployed on every push to the `main` branch using [
 
 ## Credit
 
+- [Yufang Hou](https://yufanghou.github.io) - some website content sourced from her [personal website](https://yufanghou.github.io).
 - [Dima](https://github.com/sh-dima), [rolyPolyVole](https://rolyPolyVole.github.io) - original website developers.
