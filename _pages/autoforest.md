@@ -1,7 +1,7 @@
 ---
 layout: default
 title: AutoForest
-permalink: /projects/
+permalink: /projects/autoforest
 ---
 
 Redirecting to AutoForest...
