@@ -1,6 +1,7 @@
 main:
   - title: "Team"
-    url: /team/
+    # url: /team/
+    url: "https://yufanghou.github.io/mentoring/"
   - title: "Publications"
     url: /publications/
   - title: "Teaching"

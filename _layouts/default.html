@@ -2,6 +2,23 @@
 layout: compress
 ---
 
+<!doctype html>
+<html lang="{{ site.locale | slice: 0, 2 }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Team and Mentoring — Yufang Hou</title>
+    <link rel="canonical" href="{{ site.redirect_target | escape }}">
+    <meta http-equiv="refresh" content="0; url={{ site.redirect_target | escape }}">
+    <script>window.location.replace({{ site.redirect_target | jsonify }});</script>
+  </head>
+  <body>
+    <p>The IT:U NLP Lab website has moved to <a href="{{ site.redirect_target | escape }}">Yufang Hou’s Team and Mentoring page</a>.</p>
+  </body>
+</html>
+
+{% comment %}
+
 {% include base_path %}
 
 <!doctype html>
@@ -29,3 +46,5 @@ layout: compress
 
   </body>
 </html>
+
+{% endcomment %}

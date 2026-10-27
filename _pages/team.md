@@ -3,7 +3,10 @@ layout: single
 title: "Team"
 permalink: /team/
 author_profile: true
+# redirect_to: "https://yufanghou.github.io/mentoring/#current-group-members"
 ---
+
+{% comment %}
 
 <style>
 .member__container {
@@ -255,3 +258,5 @@ html[data-theme="dark"] .member__link:hover .member__card {
       </div>
     </div>
 </div>
+
+{% endcomment %}
